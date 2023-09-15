@@ -1,0 +1,101 @@
+---
+id: sm115-69
+name: Moltres & Zapdos & Articuno-GX
+supertype: Pokémon
+subtypes:
+- Basic
+- TAG TEAM
+- GX
+hp: '300'
+types:
+- Colorless
+rules:
+- 'TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards.'
+attacks:
+- name: Trinity Burn
+  cost:
+  - Fire
+  - Water
+  - Lightning
+  - Colorless
+  convertedEnergyCost: 4
+  damage: '210'
+  text: ''
+- name: Sky Legends-GX
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: ''
+  text: Shuffle this Pokémon and all cards attached to it into your deck. If this
+    Pokémon has at least 1 extra Fire, Water, and Lightning Energy attached to it
+    (in addition to this attack's cost), this attack does 110 damage to 3 of your
+    opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+    (You can't use more than 1 GX attack in a game.)
+weaknesses:
+- type: Lightning
+  value: "×2"
+resistances:
+- type: Fighting
+  value: "-20"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 3
+set:
+  id: sm115
+  name: Hidden Fates
+  series: Sun & Moon
+  printedTotal: 68
+  total: 69
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: HIF
+  releaseDate: 2019/08/23
+  updatedAt: 2021/09/01 05:37:00
+  images:
+    symbol: https://images.pokemontcg.io/sm115/symbol.png
+    logo: https://images.pokemontcg.io/sm115/logo.png
+number: '69'
+artist: 5ban Graphics
+rarity: Rare Rainbow
+nationalPokedexNumbers:
+- 144
+- 145
+- 146
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/sm115/69.png
+  large: https://images.pokemontcg.io/sm115/69_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sm115-69
+  updatedAt: 2023/09/15
+  prices:
+    holofoil:
+      low: 9.99
+      mid: 12.16
+      high: 59.99
+      market: 11.18
+      directLow: 11.45
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sm115-69
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 9.02
+    lowPrice: 7.0
+    trendPrice: 9.25
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 13.2
+    lowPriceExPlus: 7.0
+    avg1: 8.89
+    avg7: 10.12
+    avg30: 8.79
+    reverseHoloAvg1: 13.94
+    reverseHoloAvg7: 14.53
+    reverseHoloAvg30: 14.69
